@@ -1,0 +1,10 @@
+{
+  "name": "advice",
+  "version": "0.0.1",
+  "description": "How to make twitter hate you.",
+  "author": "Dylan Pyle <me@dylanpyle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "~1.1.11"
+  }
+}
